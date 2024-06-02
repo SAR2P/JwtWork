@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kkxKfE+zN2sdgOEF16F/ICXJ3H3xRPHgSBhmnEHHvB8=",
+  "Source": "IdentityManagerServerApi",
+  "BasePath": "_content/IdentityManagerServerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
